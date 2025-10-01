@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em desenvolvimento Fullstack na PUCMG.
+Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. 
+Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em desenvolvimento Fullstack na PUCMG.
 
 ---
 
@@ -97,7 +98,7 @@ Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. Formado em 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="220" 
+      height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
