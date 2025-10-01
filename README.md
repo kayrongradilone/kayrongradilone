@@ -1,23 +1,20 @@
 # 👩🏻‍💻 Kayron Gradilone
 
 **`Desenvolvedor FullStack`**
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=user&logoColor=white" 
-/>
-<p>
-  "https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"  
-</p>
+
 
 Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. 
 Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em desenvolvimento Fullstack na PUCMG.
 
 ---
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="150px" 
+    style="padding-right: 10px;" 
+    src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=user&logoColor=white" 
+/>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
