@@ -7,15 +7,6 @@ Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP.
 Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em desenvolvimento Fullstack na PUCMG.
 
 ---
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="150px" 
-    style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/https://kayron-portfolio.vercel.app?logo=user&logoColor=white" 
-/>
-<br/>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
