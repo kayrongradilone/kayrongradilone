@@ -81,6 +81,7 @@ Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
