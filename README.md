@@ -8,7 +8,7 @@ Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. Formado em 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/kayrongradilone?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=instagram"
+            src="https://custom-icon-badges.demolab.com/github/instagram/kayrongradilone?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=instagram"
         />
     </a>
 </p>
