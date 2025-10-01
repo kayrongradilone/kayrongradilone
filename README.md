@@ -89,7 +89,7 @@ Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. Formado em 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="600"
+    width="full"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kayrongradilone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -98,7 +98,7 @@ Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP. Formado em 
 <img 
       align="left" 
       alt="GitHub Stats"
-      width="600"
+      width="full"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
