@@ -117,7 +117,7 @@ Formado em análise e desenvolvimento de sistemas, efetuando Pós graduação em
       align="left" 
       alt="GitHub Stats" 
       height="300" 
-      style="padding-right: 10px;" 
+      style="padding-top: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
