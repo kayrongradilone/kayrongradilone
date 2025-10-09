@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<sub>
+<small>
 Me chamo Kayron Gradilone, tenho 31 anos e sou natural de Santos-SP e residente de Florianópolis-SC.  
 <br/>
 Formado em análise e desenvolvimento de sistemas, efetuando Pós-graduação em desenvolvimento Fullstack na PUCMG.  
@@ -10,7 +10,7 @@ Formado em análise e desenvolvimento de sistemas, efetuando Pós-graduação em
 My name is Kayron Gradilone, I’m 31 years old, originally from Santos-SP, and currently living in Florianópolis-SC.  
 <br/>
 I hold a degree in Systems Analysis and Development and am currently pursuing a postgraduate degree in Fullstack Development at PUCMG.
-</sub>
+</small>
 
 ### Linguagens e Tecnologias
 
