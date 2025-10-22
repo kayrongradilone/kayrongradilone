@@ -125,7 +125,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/kayrongradilone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
