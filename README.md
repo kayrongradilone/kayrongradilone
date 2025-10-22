@@ -105,18 +105,18 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 <br/>
 <br/>
 
-### Estatísticas
+<h3 align="center">Estatísticas</h3>
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     width="49%" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kayrongradilone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
+    align="cener" 
     alt="GitHub Stats" 
     width="49%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
