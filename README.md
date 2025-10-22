@@ -118,7 +118,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
   <img 
     align="center" 
     alt="GitHub Stats" 
-    width="35%" 
+    width="38%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
