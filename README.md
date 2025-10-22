@@ -126,7 +126,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 <br clear="left"/>
 <br/>
 
-### Contato
+<h3 align="center">Contato</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kayrongradilone" target="_blank">
