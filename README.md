@@ -111,7 +111,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
   <img 
     align="center" 
     alt="GitHub Stats" 
-    width="80%"
+    width="51%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kayrongradilone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
