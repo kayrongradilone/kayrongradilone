@@ -132,5 +132,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 <br/>
 <br/>
 
-## Contato
- <center>href="https://www.linkedin.com/in/kayrongradilone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></center>
+### Contato
+<center>
+ <a>href="https://www.linkedin.com/in/kayrongradilone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </center>
