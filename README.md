@@ -126,8 +126,6 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 </div>
 
 <br clear="left"/>
-<br/>
-
 <h3 align="center">Contato</h3>
 
 <div align="center">
