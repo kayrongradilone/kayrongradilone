@@ -107,6 +107,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 
 <h3 align="center">Estatísticas</h3>
 
+<div align="center">
 <p>
   <img 
     align="center" 
@@ -122,6 +123,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+</div>
 
 <br clear="left"/>
 <br/>
